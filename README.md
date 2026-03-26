@@ -1,7 +1,3 @@
-# Uber Fare Prediction
-
-This project predicts the fare amount of future Uber rides using Machine Learning and regression analysis.
-
 # 🚕 Uber Fare Amount Prediction Using Regression Analysis
 
 A Machine Learning project that predicts the fare amount of future 
